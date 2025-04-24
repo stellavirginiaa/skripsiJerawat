@@ -32,7 +32,7 @@ print("Jumlah data training:", X_train.shape[0])
 print("Jumlah data testing:", X_test.shape[0])
 
 # Inisialisasi model KNN dengan jumlah tetangga sebanyak 1
-knn = KNeighborsClassifier(n_neighbors=23)
+knn = KNeighborsClassifier(n_neighbors=28)
 
 # Latih model
 knn.fit(X_train, y_train)
