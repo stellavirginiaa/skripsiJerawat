@@ -11,7 +11,7 @@ st.set_page_config(layout="wide")
 st.title("Implementasi Algoritma KNN dan Teknik Morfologi Citra dalam Klasifikasi Jenis Jerawat pada Wajah")
 
 # Informasi mengenai jenis jerawat
-st.markdown("##### Stella Virginia - 32210065 - SKRIPSI")
+st.markdown("##### Stella Virginia - 32210064 - SKRIPSI")
 st.markdown("### Jenis Jerawat yang Diklasifikasi")
 st.write("Berikut adalah tiga jenis jerawat yang dapat dideteksi dan diklasifikasikan oleh sistem:")
 
